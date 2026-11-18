@@ -1,0 +1,10 @@
+# 教材や個人的な記録をうっかり入れないための除外
+material.md
+errata.md
+SYLLABUS.md
+WORKLOG.md
+notes/
+*.pdf
+*.jpg
+*.jpeg
+*.png
